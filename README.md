@@ -60,4 +60,4 @@ Unvalidated color values passed to `ColorColumn` / `ColorEntry` components allow
 
 ## Contact
 
-[HuggingFace](https://huggingface.co/MattisR) · [GitHub](https://github.com/sv-LayZ)
+[HuggingFace](https://huggingface.co/MattisR) · [GitHub](https://github.com/sv-LayZ) · [Linkedin](https://www.linkedin.com/in/mattis-regnaut-a8470b267)
